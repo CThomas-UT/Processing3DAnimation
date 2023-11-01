@@ -1,14 +1,4 @@
-# Matrix Animation
-Once the Program is started up there isn't much to do other than observe a stick figure representation of the classic matrix scene. There is some user interactivity available which is listed below:
-
-### Pressing 'U'
-pressing 'u' allows you to go up higher above the scene while still looking at neo, it creates a bit of a new perspective
-
-### Pressing 'D'
-pressing 'd' alternatively does the opposite. The camera shifts lower than originally and allows you to look from a lower angle at the scene. 
-
-## Project Description
-**01001101 01100001 01110100 01110010 01101001 01111000**
+01001101 01100001 01110100 01110010 01101001 01111000
 
 Narrative:
     The narrative of this animation is the epic scene in the matrix where neo dodges bullets. In this one though, its a stick figure fight near the eiffel tower (it's tucked away in one of the corners). Agent smith stick figure unleashes an unrelenting rain of gunfire on a nimble neo who dodges them effortlessly.
